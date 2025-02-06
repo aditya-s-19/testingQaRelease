@@ -1,6 +1,6 @@
 # testingQaRelease
 
-& feature4
+feature3 & feature4
 
 feature2
 
